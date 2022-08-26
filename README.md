@@ -20,4 +20,7 @@
 ## 说明
 ![img.png](https://www.imgeek.org/uploads/article/20220824/0bacbe7aed7eeae62b52523cb64b7cba.png)
 ### 项目主要实现上面三个接口
+### 下面是安卓的配置（参数配置参数ios）
+![img.png](https://www.imgeek.org/uploads/article/20220826/a6ded0a712bf143ee456a1fb4512aec0.png)
+
 ### 该项目有详细注释 仅供参考
